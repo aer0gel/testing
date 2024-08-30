@@ -1,1 +1,0 @@
-start mshta.exe javascript:alert("Hello!");close(); >nul
